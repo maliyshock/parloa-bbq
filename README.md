@@ -15,9 +15,10 @@ create new customers, edit customers, delete inactive customers and filter custo
 by industry. The customer data can be found below and should be loaded dynamically
 when you visit the website.
 https://parloafrontendchallenge.z6.web.core.windows.net/customers.json
-Requirements:
-● include loading and error states
-● readable and testable code is the goal
+
+### Requirements:
+* include loading and error states
+* readable and testable code is the goal
 
 ## Comments:
 Since there is no design provided and I have some UX/UI experience i tried to do my best guess how it should work and feel.
